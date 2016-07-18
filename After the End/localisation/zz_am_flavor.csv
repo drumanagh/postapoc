@@ -1335,6 +1335,42 @@ job_marshal_quebecois;Minister of Defence;;;;;;;;;;;;;x
 job_spymaster_quebecois;Minister of the Interior;;;;;;;;;;;;;x
 
 #-------------------------------------------------------------------------------
+# Revelationist
+#-------------------------------------------------------------------------------
+
+# Revelationist Religious Holdings
+
+temple_barony_of_revelationist;Church of;;;;;;;;;;;;;x
+
+# Revelationist Religious Titles
+
+temple_baron_revelationist;Pastor;;;;;;;;;;;;;x
+temple_baron_female_revelationist;Pastor;;;;;;;;;;;;;x
+temple_baron_revelationists;Pastors;;;;;;;;;;;;;;x
+
+# Revelationist Jobs
+
+job_spiritual_revelationist;Court Pastor;Court Pastor;Court Pastor;;Court Pastor;;;;;;;;;x
+
+#-------------------------------------------------------------------------------
+# Revelationist
+#-------------------------------------------------------------------------------
+
+# Revelationist Reformed Religious Holdings
+
+temple_barony_of_revelationist_reformed;Church of;;;;;;;;;;;;;x
+
+# Revelationist Reformed Religious Titles
+
+temple_baron_revelationist_reformed;Pastor;;;;;;;;;;;;;x
+temple_baron_female_revelationist_reformed;Pastor;;;;;;;;;;;;;x
+temple_baron_revelationists_reformed;Pastors;;;;;;;;;;;;;;x
+
+# Revelationist Reformed Jobs
+
+job_spiritual_revelationist_reformed;Court Pastor;Court Pastor;Court Pastor;;Court Pastor;;;;;;;;;x
+
+#-------------------------------------------------------------------------------
 # Riverlander
 #-------------------------------------------------------------------------------
 
